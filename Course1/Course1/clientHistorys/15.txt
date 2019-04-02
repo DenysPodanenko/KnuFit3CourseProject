@@ -1,0 +1,24 @@
+2018-12-24 14:31:11|https://www.python.org/downloads/release/python-372/
+2018-12-24 14:30:56|https://www.google.com/search?q=python&rlz=1C1SQJL_ruUA829UA829&oq=pyt&aqs=chrome.3.69i57j35i39l2j0l3.2684j0j7&sourceid=chrome&ie=UTF-8
+2018-12-24 14:27:30|https://java.com/ru/download/win10.jsp
+2018-12-24 14:27:21|https://www.google.com/search?q=java&rlz=1C1SQJL_ruUA829UA829&oq=java&aqs=chrome..69i57j35i39l2j0l3.2056j0j8&sourceid=chrome&ie=UTF-8
+2018-12-24 14:03:30|https://www.jetbrains.com/idea/download/
+2018-12-24 14:03:24|https://www.jetbrains.com/idea/
+2018-12-24 12:43:04|https://visualstudio.microsoft.com/ru/?rr=https%3A%2F%2Fwww.google.com%2F
+2018-12-24 12:43:00|https://www.google.com/search?q=visual+studio&rlz=1C1SQJL_ruUA829&oq=visu&aqs=chrome.1.69i57j0j69i60j35i39j0l2.1719j0j8&sourceid=chrome&ie=UTF-8
+2018-12-24 12:39:20|https://accounts.youtube.com/accounts/SetSID?ssdc=1&sidt=ALWU2csHgii3771oF8TOIDMLsG8nRNAbvbm2A8AhsIEpkdcWdk04TZ6v5wjnPc8Wsrquq6YRVbS5S019QQr740sMLnWpOxUYr9oLfd7TpK%2Fc116DMd3%2B1ccyOYasFHni9yAhozKKCci%2FG8dT%2FBzSqSlTtBi6mf89zb5hiBk7gIrke4bY9MIt%2BEPYjbwXBeZyhD44NCI%2FJ6jktbnfsWd%2F3xim%2F78uIgCIlQv0IthaX5ijEzfv1t3LPbIxh1LPqfYMbRsVj0KSKPqVWJ9MvCl4Xw7zHoVpi3wrIY%2FId66Fa8PA99vMpzMrt9Y%3D&continue=https%3A%2F%2Fwww.google.com%2F_%2Fchrome%2Fnewtab%3Fei%3DLNMgXNHlGIS4swHM_6G4AQ%26rlz%3D1C1SQJL_ruUA829%26pli%3D1%26authuser%3D1&dbus=UA
+2018-12-24 12:39:20|https://www.google.com/_/chrome/newtab?ei=LNMgXNHlGIS4swHM_6G4AQ&rlz=1C1SQJL_ruUA829&pli=1&authuser=1
+2018-12-24 12:39:13|https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmyaccount.google.com%2Fsecurity%2Fsigninoptions%2Frecovery-options-collection%3Futm_source%3DWeb%26utm_medium%3DWeb%26utm_campaign%3Dinterstitial%26oev%3Dlytf%253D7%2526wvtx%253D2%2526trs%253Dli%2526stel%253D1%26authuser%3D1%26hl%3Dru%26continue%3Dhttps%253A%252F%252Faccounts.google.com%252FServiceLogin%253Fcontinue%253Dhttps%25253A%25252F%25252Fwww.google.com%25252F_%25252Fchrome%25252Fnewtab%25253Fei%25253DLNMgXNHlGIS4swHM_6G4AQ%252526rlz%25253D1C1SQJL_ruUA829%2526hl%253Dru%2526authuser%253D1%2526passive%253Dtrue%2526sarp%253D1%2526aodrpl%253D1%2526checkedDomains%253Dyoutube%2526checkConnection%253Dyoutube%25253A108%25253A1%2526pstMsg%253D1%26rapt%3DAEjHL4Pungw6WuKtG8LNCnjbC7exhiX0lOhL9wBBJLWi5_qwlpJa-f8ZQ2xnPMkNBJbPiiCdYZ2E0pzSNRppePmFLYJJA8vXng&service=accountsettings&hl=ru&authuser=1&passive=true&sarp=1&osid=1
+2018-12-24 12:39:13|https://myaccount.google.com/security/signinoptions/recovery-options-collection?utm_source=Web&utm_medium=Web&utm_campaign=interstitial&oev=lytf%3D7%26wvtx%3D2%26trs%3Dli%26stel%3D1&authuser=1&hl=ru&continue=https://accounts.google.com/ServiceLogin?continue%3Dhttps%253A%252F%252Fwww.google.com%252F_%252Fchrome%252Fnewtab%253Fei%253DLNMgXNHlGIS4swHM_6G4AQ%2526rlz%253D1C1SQJL_ruUA829%26hl%3Dru%26authuser%3D1%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%253A108%253A1%26pstMsg%3D1&rapt=AEjHL4Pungw6WuKtG8LNCnjbC7exhiX0lOhL9wBBJLWi5_qwlpJa-f8ZQ2xnPMkNBJbPiiCdYZ2E0pzSNRppePmFLYJJA8vXng&pli=1
+2018-12-24 12:39:13|https://myaccount.google.com/u/1/signinoptions/recovery-options-collection?utm_source=Web&utm_medium=Web&utm_campaign=interstitial&oev=lytf%3D7%26wvtx%3D2%26trs%3Dli%26stel%3D1&authuser=1&hl=ru&continue=https://accounts.google.com/ServiceLogin?continue%3Dhttps%253A%252F%252Fwww.google.com%252F_%252Fchrome%252Fnewtab%253Fei%253DLNMgXNHlGIS4swHM_6G4AQ%2526rlz%253D1C1SQJL_ruUA829%26hl%3Dru%26authuser%3D1%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%253A108%253A1%26pstMsg%3D1&rapt=AEjHL4Pungw6WuKtG8LNCnjbC7exhiX0lOhL9wBBJLWi5_qwlpJa-f8ZQ2xnPMkNBJbPiiCdYZ2E0pzSNRppePmFLYJJA8vXng&pli=1
+2018-12-24 12:38:59|chrome-extension://cfhdojbkjhnklbpkdaibdccddilifddb/first-run.html
+2018-12-24 12:38:56|https://accounts.google.com/AddSession?hl=ru&continue=https://www.google.com/_/chrome/newtab%3Fei%3DLNMgXNHlGIS4swHM_6G4AQ%26rlz%3D1C1SQJL_ruUA829
+2018-12-24 12:38:29|https://accounts.google.com/signin/v2/sl/pwd?ssp=1&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifDesktopChromeSync&cid=1&navigationDirection=forward
+2018-12-24 12:38:12|https://accounts.google.com/signin/chrome/sync?ssp=1&continue=https%3A%2F%2Fwww.google.com%2F
+2018-12-22 15:10:44|https://www.coursera.org/
+2018-12-16 12:24:46|https://www.google.com.ua/maps/@50.0183638,36.3270298,16z?hl=ru
+2018-12-05 20:49:46|https://booking.uz.gov.ua/
+2018-12-05 20:16:11|http://clients.qatestlab.com/login
+2018-12-03 10:42:37|https://dota2.starladder.com/ru/cis/starladder-amleague-season25/tournaments/1404/players
+2018-11-30 20:00:33|http://www.speedtest.net/ru
+
